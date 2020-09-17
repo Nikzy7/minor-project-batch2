@@ -9,7 +9,7 @@ engine = pyttsx3.init()
 window = tk.Tk()
 window.resizable(width=False, height=False)
 window.geometry("600x300")
-window.title("Minor Project by Ritika")
+window.title("Minor Project by Apoorv")
 
 
 load = Image.open("logo.png")
